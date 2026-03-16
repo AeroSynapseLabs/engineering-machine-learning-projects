@@ -23,7 +23,7 @@ Implementation and comparison of several regression techniques for predictive mo
 * Linear Regression
 * Ridge Regression
 * Lasso Regression
-* Polynomial Regression
+
 
 The project demonstrates the impact of regularization and model complexity on prediction accuracy.
 
